@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Sofadi One", system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #891196;
+    color: white;
+    font-family: "Sofadi One", system-ui;
+}
